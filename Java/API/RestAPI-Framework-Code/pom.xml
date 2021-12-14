@@ -21,7 +21,7 @@
         <json-path.version>4.3.0</json-path.version>
         <json-schema-validator.version>4.3.0</json-schema-validator.version>
         <org.hamcrest.version>1.3</org.hamcrest.version>
-        <log4j-core.version>2.13.3</log4j-core.version>
+        <log4j-core.version>2.16.0</log4j-core.version>
         <log4j-api.version>2.13.3</log4j-api.version>
         <jackson-dataformat-yaml.version>2.10.3</jackson-dataformat-yaml.version>
         <jackson-databind.version>2.11.0.rc1</jackson-databind.version>
